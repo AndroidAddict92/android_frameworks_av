@@ -102,8 +102,8 @@
 #include <media/stagefright/FFMPEGSoftCodec.h>
 
 #ifdef ENABLE_AV_ENHANCEMENTS
-#include <QCMediaDefs.h>
-#include <QCMetaData.h>
+#include "QCMediaDefs.h"
+#include "QCMetaData.h"
 #include <QOMX_AudioExtensions.h>
 #endif
 #ifdef DTS_CODEC_M_

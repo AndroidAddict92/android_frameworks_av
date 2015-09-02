@@ -47,8 +47,8 @@
 #define ARG_TOUCH(x) (void)x
 
 #ifdef ENABLE_AV_ENHANCEMENTS
-#include <QCMetaData.h>
-#include <QCMediaDefs.h>
+#include "QCMetaData.h"
+#include "QCMediaDefs.h"
 #include <OMX_QCOMExtns.h>
 #include <OMX_Component.h>
 #include <OMX_VideoExt.h>
