@@ -62,7 +62,7 @@
 #include <ExtendedUtils.h>
 #include <media/stagefright/ExtendedWriter.h>
 #include <media/stagefright/FMA2DPWriter.h>
-#include <QCMediaDefs.h>
+#include "QCMediaDefs.h"
 #endif
 
 #include "ARTPWriter.h"
